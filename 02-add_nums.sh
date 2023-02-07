@@ -15,10 +15,10 @@ echo "The sum is $sum"
 # number of pixels
 
 echo "Enter your the width"
-read width
+read w
 echo "Enter your the height"
-read height
+read h
 
-total= $((width+height))
+total= $((w+h))
 
 echo"The total is $total"
