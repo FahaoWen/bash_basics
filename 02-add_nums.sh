@@ -15,6 +15,7 @@ echo "The sum is $sum"
 # number of pixels
 
 echo "Enter your the width"
+
 read w
 echo "Enter your the height"
 read h
